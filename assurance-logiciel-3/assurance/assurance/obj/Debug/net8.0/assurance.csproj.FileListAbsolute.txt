@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\assurance\assurance-logiciel-3\assurance\assurance\bin\Debug\net8.0\assurance.exe
+C:\Users\Administrator\Documents\assurance\assurance-logiciel-3\assurance\assurance\bin\Debug\net8.0\assurance.deps.json
+C:\Users\Administrator\Documents\assurance\assurance-logiciel-3\assurance\assurance\bin\Debug\net8.0\assurance.runtimeconfig.json
+C:\Users\Administrator\Documents\assurance\assurance-logiciel-3\assurance\assurance\bin\Debug\net8.0\assurance.dll
+C:\Users\Administrator\Documents\assurance\assurance-logiciel-3\assurance\assurance\bin\Debug\net8.0\assurance.pdb
+C:\Users\Administrator\Documents\assurance\assurance-logiciel-3\assurance\assurance\obj\Debug\net8.0\assurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\assurance\assurance-logiciel-3\assurance\assurance\obj\Debug\net8.0\assurance.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\assurance\assurance-logiciel-3\assurance\assurance\obj\Debug\net8.0\assurance.AssemblyInfo.cs
+C:\Users\Administrator\Documents\assurance\assurance-logiciel-3\assurance\assurance\obj\Debug\net8.0\assurance.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\assurance\assurance-logiciel-3\assurance\assurance\obj\Debug\net8.0\assurance.dll
+C:\Users\Administrator\Documents\assurance\assurance-logiciel-3\assurance\assurance\obj\Debug\net8.0\refint\assurance.dll
+C:\Users\Administrator\Documents\assurance\assurance-logiciel-3\assurance\assurance\obj\Debug\net8.0\assurance.pdb
+C:\Users\Administrator\Documents\assurance\assurance-logiciel-3\assurance\assurance\obj\Debug\net8.0\assurance.genruntimeconfig.cache
+C:\Users\Administrator\Documents\assurance\assurance-logiciel-3\assurance\assurance\obj\Debug\net8.0\ref\assurance.dll

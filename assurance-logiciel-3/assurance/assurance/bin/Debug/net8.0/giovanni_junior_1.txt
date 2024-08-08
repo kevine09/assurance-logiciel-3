@@ -1,0 +1,6 @@
+Numero d'etudiant : 1
+Nom:giovanni
+prenom:junior
+Notes:
+Cours numero 1:85.5
+Cours numero 2:78
