@@ -12,3 +12,6 @@ Ce projet fournit une application de gestion des étudiants et de leurs notes. I
 - Afficher tous les cours disponibles  
 - Afficher les notes d'un étudiant spécifique  
 - Sauvegarder les informations d'un étudiant et ses notes dans un fichier texte  
+
+## lien vers github
+- https://github.com/kevine09/assurance-logiciel-3.git

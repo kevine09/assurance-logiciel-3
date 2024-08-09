@@ -71,9 +71,9 @@ using System.Threading.Tasks;
 
         public Etudiant(int numeroEtudiant, string nom, string prenom)
         {
-    NumeroEtudiant = numeroEtudiant;
-    Nom = nom;
-    Prenom = prenom;
+   this. NumeroEtudiant = numeroEtudiant;
+   this. Nom = nom;
+   this. Prenom = prenom;
 }
     }
 
@@ -196,5 +196,3 @@ public class GestionNotes
         }
     } }
      
-
-
